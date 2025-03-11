@@ -1,0 +1,12 @@
+sample_fp	plate	well	tile	treatment
+/lab/cheeseman_ops/brieflow-screens/logan-data/input_ph/Untreated_0000.nd2	1	A1	0	untreated
+/lab/cheeseman_ops/brieflow-screens/logan-data/input_ph/Untreated_0001.nd2	1	A1	1	untreated
+/lab/cheeseman_ops/brieflow-screens/logan-data/input_ph/Untreated_0002.nd2	1	A1	2	untreated
+/lab/cheeseman_ops/brieflow-screens/logan-data/input_ph/Untreated_0003.nd2	1	A1	3	untreated
+/lab/cheeseman_ops/brieflow-screens/logan-data/input_ph/Untreated_0004.nd2	1	A1	4	untreated
+/lab/cheeseman_ops/brieflow-screens/logan-data/input_ph/Enriched4Mito_0000.nd2	1	A2	0	mito
+/lab/cheeseman_ops/brieflow-screens/logan-data/input_ph/Enriched4Mito_0001.nd2	1	A2	1	mito
+/lab/cheeseman_ops/brieflow-screens/logan-data/input_ph/Enriched4Mito_0002.nd2	1	A2	2	mito
+/lab/cheeseman_ops/brieflow-screens/logan-data/input_ph/Enriched4Mito_0003.nd2	1	A2	3	mito
+/lab/cheeseman_ops/brieflow-screens/logan-data/input_ph/Enriched4Mito_0004.nd2	1	A2	4	mito
+/lab/cheeseman_ops/brieflow-screens/logan-data/input_ph/Enriched4Mito_0005.nd2	1	A2	5	mito
