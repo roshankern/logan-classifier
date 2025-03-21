@@ -14,7 +14,7 @@ all:
   root_fp: analysis_root/
 preprocess:
   phenotype_channel_order: null
-  phenotype_channel_order_flip: false
+  phenotype_channel_order_flip: true
   phenotype_combo_fp: config/phenotype_combo.tsv
   phenotype_round_order: null
   phenotype_samples_fp: config/phenotype_samples.tsv
